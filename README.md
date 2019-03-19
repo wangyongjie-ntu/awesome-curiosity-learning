@@ -53,15 +53,7 @@ Self-supervised Prediction](https://pathak22.github.io/noreward-rl/)
 
 [HOW TEACHING AI TO BE CURIOUS HELPS MACHINES LEARN FOR THEMSELVES](https://www.theverge.com/2018/11/1/18051196/ai-artificial-intelligence-curiosity-openai-montezumas-revenge-noisy-tv-problem)
 
-
-
-
-
 ## Codes
 
 [https://github.com/google-research/episodic-curiosity](https://github.com/google-research/episodic-curiosity)
-
-
-
-
 
