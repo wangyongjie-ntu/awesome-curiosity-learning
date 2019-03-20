@@ -24,7 +24,9 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 ## Books
 
+[[Conflict, arousal, and curiosity.](https://psycnet.apa.org/record/2006-09643-000?doi=1)]  New York: McGraw‐Hill 1960
 
+[Intrinsic Motivation and Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-642-32375-1_2)    Springer 2013
 
 ## Papers
 
@@ -32,9 +34,17 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [EPISODIC CURIOSITY THROUGH REACHABILITY](https://arxiv.org/abs/1810.02274)  ICLR 2019
 
+[Theories of Curiosity-Driven Learning](https://arxiv.org/pdf/1802.10546.pdf)  arXiv:1802.10546 2018
+
 [Curiosity-driven Exploration by Self-supervised Prediction](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w5/papers/Pathak_Curiosity-Driven_Exploration_by_CVPR_2017_paper.pdf)  CVPR 2017
 
+[Curiosity driven reinforcement learning for motion planning on humanoids](https://www.frontiersin.org/articles/10.3389/fnbot.2013.00025/full)  Front. Neurorobot., 06 January 2014
+
+[Information-seeking, curiosity, and attention: computational and neural mechanisms](https://www.sciencedirect.com/science/article/pii/S1364661313002052)   Trends in cognitive sciences, 2013 - Elsevier
+
 [Curiosity-driven phonetic learning](https://ieeexplore.ieee.org/document/6400583)  2012 IEEE International Conference on Development and Learning and Epigenetic Robotics
+
+[An information-theoretic approach to curiosity-driven reinforcement learning](https://link-springer-com.ezlibproxy1.ntu.edu.sg/article/10.1007/s12064-011-0142-z) Theory in Biosciences 2012
 
 [Intelligent Adaptive Curiosity: a source of Self-Development](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.3374&rep=rep1&type=pdf)   Proceedings of the Fourth International Workshop on Epigenetic Robotics  2004
 
