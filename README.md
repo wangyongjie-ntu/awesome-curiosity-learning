@@ -52,7 +52,7 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [On Curiosity in Intelligent Robotic Systems](https://www.aaai.org/Papers/Symposia/Fall/2006/FS-06-05/FS06-05-008.pdf) AAAI 2006
 
-[Developmental robotics, optimal artificial curiosity, creativity, music, and the fine arts](ftp://ftp.idsia.ch/pub/juergen/curiosity2006.pdf) Connection Science, 2006
+[Developmental robotics, optimal artificial curiosity, creativity, music, and the fine arts](http://archive.www6.in.tum.de/www6/Main/Publications/Schmidhuber2006a.pdf) Connection Science, 2006
 
 [Intelligent Adaptive Curiosity: a source of Self-Development](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.3374&rep=rep1&type=pdf)   Proceedings of the Fourth International Workshop on Epigenetic Robotics  2004
 
