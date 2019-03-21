@@ -38,7 +38,7 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [Curiosity-driven Exploration by Self-supervised Prediction](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w5/papers/Pathak_Curiosity-Driven_Exploration_by_CVPR_2017_paper.pdf)  CVPR 2017
 
-[Curiosity, Information Gaps, and the Utility of Knowledge](https://www.cmu.edu/dietrich/sds/docs/golman/Curiosity%2C%20Information%20Gaps%2C%20and%20the%20Utility%20of%20Knowledge%20Golman_Loewenstein%20April%202015.pdf)
+[Curiosity, Information Gaps, and the Utility of Knowledge](https://www.cmu.edu/dietrich/sds/docs/golman/Curiosity%2C%20Information%20Gaps%2C%20and%20the%20Utility%20of%20Knowledge%20Golman_Loewenstein%20April%202015.pdf) Social Science Research Network 2015
 
 [Curiosity-driven exploration in reinforcement learning](https://ieeexplore.ieee.org/abstract/document/6848933) IEEE Trans. 2014
 
