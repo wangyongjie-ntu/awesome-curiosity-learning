@@ -24,9 +24,11 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 ## Books
 
-[Conflict, arousal, and curiosity](https://psycnet.apa.org/record/2006-09643-000?doi=1)  New York: McGraw‐Hill 1960
+## [Progress in Brain Research](https://www.sciencedirect.com/science/journal/00796123) [Volume 229](https://www.sciencedirect.com/science/journal/00796123/229/supp/C), 2016, Pages 257-284 
 
 [Intrinsic Motivation and Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-642-32375-1_2)    Springer 2013
+
+[Conflict, arousal, and curiosity](https://psycnet.apa.org/record/2006-09643-000?doi=1)  New York: McGraw‐Hill 1960
 
 ## Papers
 
