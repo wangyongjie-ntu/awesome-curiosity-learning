@@ -28,6 +28,8 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [Intrinsic Motivation and Reinforcement Learning](https://link.springer.com/chapter/10.1007/978-3-642-32375-1_2)    Springer 2013
 
+[Handbook of Self-Regulation](https://www.sciencedirect.com/science/book/9780121098902) [Chapter 15 - Motivation and Action in Self-Regulated Learning](https://www.sciencedirect.com/science/article/pii/B9780121098902500445)  2000 Elsevier
+
 [Conflict, arousal, and curiosity](https://psycnet.apa.org/record/2006-09643-000?doi=1)  New York: McGraw‐Hill 1960
 
 ## Papers
@@ -36,7 +38,15 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [Episodic curiosity through reachability](https://arxiv.org/abs/1810.02274)  ICLR 2019
 
+[Learning to Play With Intrinsically-Motivated, Self-Aware Agents](http://papers.nips.cc/paper/8059-learning-to-play-with-intrinsically-motivated-self-aware-agents)  2018 NIPS
+
+[Curiosity Driven Exploration of Learned Disentangled Goal Spaces](https://arxiv.org/abs/1807.01521) arXiv 2018
+
 [Theories of Curiosity-Driven Learning](https://arxiv.org/pdf/1802.10546.pdf)  arXiv:1802.10546 2018
+
+[Curiosity-Driven Reinforcement Learning with Homeostatic Regulation](https://ieeexplore.ieee.org/abstract/document/8489075) 2018 IJCNN
+
+[Curiosity-driven exploration enhances motor skills of continuous actor-critic learner](https://ieeexplore.ieee.org/abstract/document/8329785) 2017 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
 
 [Continual curiosity-driven skill acquisition from high-dimensional video inputs for humanoid robots](https://www.sciencedirect.com/science/article/abs/pii/S000437021500017X)  2017 Artificial Intelligence
 
@@ -48,7 +58,11 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [Curiosity-driven exploration in deep reinforcement learning via bayesian neural networks](https://pdfs.semanticscholar.org/fb3c/6456708b0e143f545d77dc8ec804eb947395.pdf)  arxiv 2016
 
+[Modular active curiosity-driven discovery of tool use](https://ieeexplore.ieee.org/abstract/document/7759584) 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
 [Curiosity, Information Gaps, and the Utility of Knowledge](https://www.cmu.edu/dietrich/sds/docs/golman/Curiosity%2C%20Information%20Gaps%2C%20and%20the%20Utility%20of%20Knowledge%20Golman_Loewenstein%20April%202015.pdf) Social Science Research Network 2015
+
+[Curiosity-driven exploration in reinforcement learning](https://ieeexplore.ieee.org/abstract/document/6848933) 2014 ELEKTRO
 
 [Curiosity-driven exploration in reinforcement learning](https://ieeexplore.ieee.org/abstract/document/6848933) IEEE Trans. 2014
 
@@ -62,6 +76,12 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [An information-theoretic approach to curiosity-driven reinforcement learning](https://link-springer-com.ezlibproxy1.ntu.edu.sg/article/10.1007/s12064-011-0142-z) Theory in Biosciences 2012
 
+[Learning tactile skills through curious exploration](https://www.frontiersin.org/articles/10.3389/fnbot.2012.00006/full) 23 July 2012 Front. Neurorobot
+
+[Artificial curiosity for autonomous space exploration](http://eprints.qut.edu.au/105824/)  2011 Artificial curiosity for autonomous space exploration.*Acta Futura*, *4*, pp. 41-51.
+
+[Curiosity-driven optimization](https://ieeexplore.ieee.org/abstract/document/5949772) [2011 IEEE Congress of Evolutionary Computation (CEC)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5936494)
+
 [Curiosity-driven acquisition of sensorimotor concepts using memory-based active learning](https://ieeexplore.ieee.org/abstract/document/4913080) 2008 IEEE International Conference on Robotics and Biomimetics
 
 [On Curiosity in Intelligent Robotic Systems](https://www.aaai.org/Papers/Symposia/Fall/2006/FS-06-05/FS06-05-008.pdf) AAAI 2006
@@ -69,6 +89,8 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 [Developmental robotics, optimal artificial curiosity, creativity, music, and the fine arts](http://archive.www6.in.tum.de/www6/Main/Publications/Schmidhuber2006a.pdf) Connection Science, 2006
 
 [Curiosity-driven development](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.1750&rep=rep1&type=pdf) 2006 in Proceedings of the International Workshop on Synergistic Intelligence Dynamics
+
+[Intrinsically Motivated Reinforcement Learning](http://papers.nips.cc/paper/2552-intrinsically-motivated-reinforcement-learning.pdf) 2005 NIPS
 
 [Intelligent Adaptive Curiosity: a source of Self-Development](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.3374&rep=rep1&type=pdf)   Proceedings of the Fourth International Workshop on Epigenetic Robotics  2004
 
