@@ -52,6 +52,8 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [Curiosity-driven Exploration by Self-supervised Prediction](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w5/papers/Pathak_Curiosity-Driven_Exploration_by_CVPR_2017_paper.pdf)  CVPR 2017
 
+[Curiosity-driven Exploration by Self-supervised Prediction](https://pathak22.github.io/noreward-rl/resources/icml17.pdf) ICML 2017
+
 [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](http://papers.nips.cc/paper/6232-hierarchical-deep-reinforcement-learning-integrating-temporal-abstraction-and-intrinsic-motivation)  2016 NIPS
 
 [Curiosity-Driven Development of Tool Use Precursors: a Computational Model](https://hal.archives-ouvertes.fr/hal-01354013/) 2016 Proceedings of the 38th Annual Conference of the Cognitive Science Society
