@@ -94,6 +94,8 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [Intelligent Adaptive Curiosity: a source of Self-Development](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.3374&rep=rep1&type=pdf)   Proceedings of the Fourth International Workshop on Epigenetic Robotics  2004
 
+[A possibility for implementing curiosity and boredom in model-building neural controllers](https://dl.acm.org/citation.cfm?id=116542) . In Proceedings of the First International Conference on Simulation of Adaptive Behavior on From Animals to Animats, Cambridge, MA, USA, 1990. MIT Press
+
 [Curiosity and Exploration](https://www.jstor.org/stable/1719694?seq=1#page_scan_tab_contents)  Science American Association for the Advancement of Science  1966
 
 
