@@ -127,3 +127,5 @@ Self-supervised Prediction](https://pathak22.github.io/noreward-rl/)
 
 [https://github.com/google-research/episodic-curiosity](https://github.com/google-research/episodic-curiosity)
 
+[https://github.com/pathak22/noreward-rl](https://github.com/pathak22/noreward-rl)
+
