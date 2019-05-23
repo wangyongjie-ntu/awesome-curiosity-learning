@@ -110,7 +110,6 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 
 ## Blogs
-[Unsupervised learning: the curious pupil](https://deepmind.com/blog/unsupervised-learning/)
 
 [Curiosity and Procrastination in Reinforcement Learning](http://ai.googleblog.com/2018/10/curiosity-and-procrastination-in.html)
 
