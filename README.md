@@ -38,6 +38,8 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 
 [Episodic curiosity through reachability](https://arxiv.org/abs/1810.02274)  ICLR 2019
 
+[CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning](https://arxiv.org/abs/1810.06284) ICML 2019
+
 [Learning to Play With Intrinsically-Motivated, Self-Aware Agents](http://papers.nips.cc/paper/8059-learning-to-play-with-intrinsically-motivated-self-aware-agents)  2018 NIPS
 
 [Curiosity Driven Exploration of Learned Disentangled Goal Spaces](https://arxiv.org/abs/1807.01521) arXiv 2018
@@ -45,6 +47,8 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 [Theories of Curiosity-Driven Learning](https://arxiv.org/pdf/1802.10546.pdf)  arXiv:1802.10546 2018
 
 [Curiosity-Driven Reinforcement Learning with Homeostatic Regulation](https://ieeexplore.ieee.org/abstract/document/8489075) 2018 IJCNN
+
+[Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning](https://arxiv.org/pdf/1708.02190.pdf) 2017. hal-01651233
 
 [Curiosity-driven exploration enhances motor skills of continuous actor-critic learner](https://ieeexplore.ieee.org/abstract/document/8329785) 2017 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
 
@@ -63,6 +67,8 @@ List of helpful curiosity-learning for various tutorials, videos, books, papers,
 [Modular active curiosity-driven discovery of tool use](https://ieeexplore.ieee.org/abstract/document/7759584) 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 [Curiosity, Information Gaps, and the Utility of Knowledge](https://www.cmu.edu/dietrich/sds/docs/golman/Curiosity%2C%20Information%20Gaps%2C%20and%20the%20Utility%20of%20Knowledge%20Golman_Loewenstein%20April%202015.pdf) Social Science Research Network 2015
+
+[Curiosity driven reinforcement learning for motion planning on humanoids](https://www.frontiersin.org/articles/10.3389/fnbot.2013.00025/full) Front Neurorobot 2014
 
 [Curiosity-driven exploration in reinforcement learning](https://ieeexplore.ieee.org/abstract/document/6848933) 2014 ELEKTRO
 
